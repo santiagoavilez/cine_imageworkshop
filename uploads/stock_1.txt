@@ -1,0 +1,12 @@
+<h3>Información de la película</h3>
+                          <p><b>Título:</b> test <br />
+                          <b>Actores:</b> test <br />
+                          <b>Director:</b> test <br />
+                          <b>Guión:</b> test <br />
+                          <b>Producción:</b> test <br />
+                          <b>A&ntilde;o:</b> 1900 <br />
+                          <b>Nacionalidad:</b> Japon <br />
+                          <b>Genero:</b> Acción <br />
+                          <b>Duración:</b> 222 minutos<br />
+                          <b>Restricciones de edad:</b> Apta para todo público <br />
+                          <b>Sinopsis:</b> test <br />

@@ -1,0 +1,12 @@
+<h3>Información de la película</h3>
+                          <p><b>Título:</b> asdasd <br />
+                          <b>Actores:</b> asda <br />
+                          <b>Director:</b> asd <br />
+                          <b>Guión:</b> asdas <br />
+                          <b>Producción:</b> asd <br />
+                          <b>A&ntilde;o:</b> 2020 <br />
+                          <b>Nacionalidad:</b> Japon <br />
+                          <b>Genero:</b> Acción <br />
+                          <b>Duración:</b> 222 minutos<br />
+                          <b>Restricciones de edad:</b> Apta para todo público <br />
+                          <b>Sinopsis:</b> asdasd <br />
